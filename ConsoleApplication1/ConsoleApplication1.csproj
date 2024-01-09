@@ -43,8 +43,8 @@
     </ItemGroup>
     <ItemGroup>
       <PackageReference Include="IdentityModel" Version="4.3.0" />
-      <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.6.0" />
-      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.6.0" />
+      <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.34.0" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
     </ItemGroup>
     <ItemGroup>
       <Content Include=".gitignore" />
